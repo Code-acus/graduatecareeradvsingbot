@@ -23,6 +23,8 @@
             Welcome!
             <br>
             </br>
+            <br>
+            </br>
             Please type "begin" to get started.
         </template>
     </category>
@@ -119,6 +121,8 @@
         </pattern>
         <template>
             I recommend speaking with an advisor for a more personalized experience. 
+            <br>
+            </br>
             <br>
             </br>
             Please type "help" to schedule an appointment!

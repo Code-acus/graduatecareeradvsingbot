@@ -4,7 +4,12 @@
     <category>
         <pattern>begin</pattern>
         <template>
-            Welcome! I am the student career bot for the Career Advising Dept.
+            Welcome! 
+            <br>
+            </br>
+            <br>
+            </br>
+            I am the student career bot for the Career Advising Dept.
             <br>
             </br>
             <br>
@@ -81,7 +86,7 @@
             Find a career
         </pattern>
         <template>
-            I woould like to ask you some questions to provide suggestions on career paths to consider.
+            I would like to ask you some questions to provide suggestions on career paths to consider.
             <br>
             </br>
             <br>
