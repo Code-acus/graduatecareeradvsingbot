@@ -4,7 +4,12 @@
     <category>
         <pattern>begin</pattern>
         <template>
-            Welcome! I am the student career bot for the department of Computer Science. To get started please select from the opitions below: 
+            Welcome! I am the student career bot for the Career Advising Dept.
+            <br>
+            </br>
+            <br>
+            </br>
+            To get started please select from the opitions below: 
             <button>
                 <text>
                     Learn about top 5 careers
@@ -76,9 +81,16 @@
             Find a career
         </pattern>
         <template>
-            We will now ask you a series of questions to provide suggestions on career paths to consider.
-            <br></br>
-            <br></br>
+            I woould like to ask you some questions to provide suggestions on career paths to consider.
+            <br>
+            </br>
+            <br>
+            </br>
+            let's begin.
+            <br>
+            </br>
+            <br>
+            </br>
             Do you enjoy design but struggle with programming?
             <button>
                 <text>
@@ -204,7 +216,7 @@
             programming question 2
         </pattern>
         <template> 
-        Do you enjoy engineering, designing, installing, testing, and maintaining software systems?
+            Do you enjoy engineering, designing, installing, testing, and maintaining software systems?
             <button>
                 <text>
                     yes

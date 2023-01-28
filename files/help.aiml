@@ -6,7 +6,7 @@
             hello
         </pattern>
         <template>
-            Hello! Welcome to the student career services chat room. Please type "begin" to get started.
+            Hello and welcome. Please type "begin" to get started.
         </template>
     </category>
     
@@ -15,7 +15,15 @@
             hi
         </pattern>
         <template>
-            Hello! Welcome to the student career services chat room. Please type "begin" to get started.
+            Hello!
+            <br>
+            </br>
+            <br>
+            </br>
+            Welcome!
+            <br>
+            </br>
+            Please type "begin" to get started.
         </template>
     </category>
     
